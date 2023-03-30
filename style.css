@@ -1,5 +1,5 @@
 @media only screen and (min-width: 768px) {
-  /* Pantallas de 768px o más */
+  /* Screens of 768px or more. */
   .container {
     width: 70%;
   }
@@ -11,7 +11,7 @@
 }
 
 @media only screen and (max-width: 767px) {
-  /* Pantallas de menos de 768px */
+  /* Screens with less than 768px. */
   .container {
     flex-direction: column;
     align-items: center;
@@ -106,7 +106,7 @@ i {
   font-size: 30px;
 }
 
-/* Estilos específicos para section-1 */
+/* Specific styles for section-1. */
 
 .section-1 {
   width: 30%;
@@ -133,7 +133,7 @@ i {
   font-size: 18px;
 }
 
-/* Estilos específicos para section-2 */
+/* Specific styles for section-2. */
 
 .section-2 {
   font-size: 20px;
@@ -150,7 +150,7 @@ i {
   margin-bottom: 10px;
 }
 
-/* Estilos específicos para section-3 */
+/* Specific styles for section-3. */
 
 .section-3 {
   font-size: 20px;
@@ -167,7 +167,7 @@ i {
   margin-bottom: 10px;
 }
 
-/* Estilos específicos para section-4 */
+/* Specific styles for section-4. */
 
 .section-4 h1 {
   text-align: center;
@@ -176,7 +176,7 @@ i {
   text-align: center;
 }
 
-/* Estilos específicos para section-5 */
+/* Specific styles for section-. */
 .section-5 h1 {
   text-align: center;
 }
@@ -191,7 +191,7 @@ i {
   border-bottom: 2px solid #0c6066;
 }
 
-/* Estilos específicos para section-6 */
+/* Specific styles for section-6. */
 
 .formulario-de-contacto {
   display: flex;
